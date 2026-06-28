@@ -304,7 +304,7 @@ Player  |  Laser  |  Enemy  |  Star
 
 | Role | Name | Student ID |
 |---|---|---|
-| Developer / Designer | Phạm Hồng Phúc | QE190133 |
+| Developer / Designer | Nguyễn Công Nhất | QE190017 |
 
 **Course:** PRU213 — Game Development with Unity  
 **Class:** SE19B.NET  
